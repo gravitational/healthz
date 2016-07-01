@@ -1,0 +1,14 @@
+{
+	"ImportPath": "github.com/gravitational/healthz",
+	"GoVersion": "go1.5",
+	"GodepVersion": "v62",
+	"Packages": [
+		"./..."
+	],
+	"Deps": [
+		{
+			"ImportPath": "github.com/miekg/dns",
+			"Rev": "5d001d020961ae1c184f9f8152fdc73810481677"
+		}
+	]
+}
